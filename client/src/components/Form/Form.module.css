@@ -1,0 +1,14 @@
+.container {
+  width: 100%;
+}
+
+.addButtonContainer {
+  display: flex;
+  justify-content: flex-end;
+  margin: 10px 0;
+}
+
+.control {
+  display: flex;
+  justify-content: flex-end;
+}
